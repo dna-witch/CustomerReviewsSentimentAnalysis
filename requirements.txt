@@ -1,0 +1,13 @@
+pandas
+numpy
+flask
+jupyterlab
+# jupyter_contrib_nbextensions  # for TOC
+# nbconvert==5.6.1  # for TOC
+scikit-learn
+tensorflow
+nltk
+contractions
+gensim
+scipy==1.10.1  # for gensim
+bs4
